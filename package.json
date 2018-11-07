@@ -1,0 +1,24 @@
+{
+  "name": "jsonreadpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-file": "^0.1.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricYunzeG/JSONreadPractice.git"
+  },
+  "author": "Eric Guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricYunzeG/JSONreadPractice/issues"
+  },
+  "homepage": "https://github.com/EricYunzeG/JSONreadPractice#readme"
+}

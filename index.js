@@ -12,3 +12,5 @@ var items = file.get('items');
 _.forEach(items, function(value){
     console.log(value);
 });
+
+//console.log(items[0].fname); //test items: items are already objects
